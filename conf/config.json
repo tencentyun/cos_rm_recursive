@@ -1,0 +1,10 @@
+{
+    "appid":10010032,
+    "secret_id":"xxx",
+    "secret_key":"xxx",
+    "log_level":1,
+    "log_file_name":"del_file.log",
+    "dir_thread_num":2,
+    "file_thread_num":5,
+    "delete_folder_fail_exist":0
+}
